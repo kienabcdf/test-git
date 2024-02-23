@@ -1,5 +1,6 @@
 #includea<iostream>
 using namespace std;
 int main(){
-	cout<<random();
+	cout<<"hello world"<<endl;
+	return 0;
 }
